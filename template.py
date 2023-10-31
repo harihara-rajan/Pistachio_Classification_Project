@@ -28,7 +28,8 @@ list_of_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
+    "templates/index.html"
 ] # specify the list of files that you need to create 
 
 for filepath in list_of_files:
